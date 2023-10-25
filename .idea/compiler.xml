@@ -12,15 +12,11 @@
         <module name="oauth_server" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="oauth" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="deal" options="-parameters" />
       <module name="information" options="-parameters" />
-      <module name="oauth" options="-parameters" />
       <module name="oauth_server" options="-parameters" />
       <module name="user" options="-parameters" />
     </option>
