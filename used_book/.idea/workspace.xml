@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6e53da2-3b20-4bb7-9c3e-1c24c64d92b3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/deal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/src/main/java/top/haidong/deal/DealApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deal/src/test/java/top/haidong/deal/DealApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/src/main/java/top/haidong/information/InformationApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/information/src/test/java/top/haidong/information/InformationApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/src/main/java/top/haidong/user/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/src/test/java/top/haidong/user/UserApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/OauthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/OauthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/src/test/java/top/haidong/oauth/OauthApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/test/java/top/haidong/oauth/OauthApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deal" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/oauth" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,22 +26,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "20",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.DealApplication">
     <configuration name="DealApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="deal" />
@@ -76,6 +53,13 @@
     <configuration name="InformationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="information" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="top.haidong.information.InformationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.haidong.oauth.OauthApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

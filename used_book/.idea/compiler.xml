@@ -6,16 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user" />
         <module name="deal" />
         <module name="information" />
+        <module name="user" />
+        <module name="oauth" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oauth_server" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="deal" options="-parameters" />
       <module name="information" options="-parameters" />
+      <module name="oauth" options="-parameters" />
       <module name="user" options="-parameters" />
     </option>
   </component>
