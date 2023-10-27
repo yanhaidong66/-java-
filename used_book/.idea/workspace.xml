@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6e53da2-3b20-4bb7-9c3e-1c24c64d92b3" name="更改" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/oauth/src/test/java/top/haidong/oauth/security/key/JwtFactoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/common/JwtFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/security/key/JwtFactory.java" afterDir="false" />
@@ -17,6 +18,12 @@
       <change beforePath="$PROJECT_DIR$/oauth/target/classes/top/haidong/oauth/common/MyKeyPair.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oauth/target/test-classes/top/haidong/oauth/common/JwtFactoryTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oauth/target/test-classes/top/haidong/oauth/common/MyJedisFactoryTest.class" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/oauth/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/OauthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/main/java/top/haidong/oauth/OauthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/src/test/java/top/haidong/oauth/OauthApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/test/java/top/haidong/oauth/OauthApplicationTests.java" afterDir="false" />
+>>>>>>> a3f43abd7665cae2f02a357100ec5301ee39d500
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/oauth" />
+>>>>>>> a3f43abd7665cae2f02a357100ec5301ee39d500
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +56,7 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
@@ -175,6 +187,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.DealApplication">
+>>>>>>> a3f43abd7665cae2f02a357100ec5301ee39d500
     <configuration name="DealApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="deal" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="top.haidong.deal.DealApplication" />

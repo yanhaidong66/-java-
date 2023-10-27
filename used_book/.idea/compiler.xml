@@ -3,26 +3,6 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="oauth" />
-        <module name="deal" />
-        <module name="information" />
-      </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="oauth_server" target="17" />
-      <module name="user" target="17" />
-    </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="deal" options="-parameters" />
-      <module name="information" options="-parameters" />
-      <module name="oauth" options="-parameters" />
-      <module name="user" options="-parameters" />
-    </option>
   </component>
 </project>
