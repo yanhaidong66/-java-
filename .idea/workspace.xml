@@ -5,9 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5341d59-91f6-4b36-8441-bf4e69dcfe97" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/eureka/src/test/java/com/example/eureka/EurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/src/main/java/com/example/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/used_book/gateway/src/test/java/com/example/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/used_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/used_book/oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/used_book/oauth/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/oauth/src/main/java/top/haidong/oauth/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/used_book/oauth/src/test/java/top/haidong/oauth/service/impl/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/used_book/oauth/src/test/java/top/haidong/oauth/service/impl/UserServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,27 +56,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hd/Desktop/二手书/used_book",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "47db0c67874c75b8efb758ba2373bc83",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hd/Desktop/二手书/used_book&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;47db0c67874c75b8efb758ba2373bc83&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -99,6 +124,7 @@
       <updated>1698207098072</updated>
       <workItem from="1698207099143" duration="319000" />
       <workItem from="1698219228272" duration="13000" />
+      <workItem from="1701071225705" duration="15000" />
     </task>
     <servers />
   </component>

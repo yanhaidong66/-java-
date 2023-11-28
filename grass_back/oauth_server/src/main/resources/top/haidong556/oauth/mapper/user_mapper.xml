@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="top.haidong556.oauth.mapper.UserMapper">
+    <resultMap id="userResultMapper" type="MyUser">
+        <id column="user_id" property="id"></id>
+        <result column="user_username" property="userName"></result>
+        <result column="user_password" property="password"></result>
+        <result column="user_emile" property="email"></result>
+        <result column="user_create_time" property="createTime"></result>
+        <result column="user_modified_time" property="modifiedTime"></result>
+    </resultMap>
+    <select id="getUserByUserName" resultType="top.haidong556.oauth.mapper.UserMapper" parameterType="String" resultMap="userResultMapper">
+        SELECT * FROM oauth.t_user where user_username=#{userName};
+    </select>
+
+    <insert id="addUser" parameterType="top.haidong556.oauth.entity.MyUser">
+        INSERT INTO oauth.t_user(user_username, user_password, user_emile) values (#{userName},#{password},#{email});
+    </insert>
+
+    <delete id="deleteUser" parameterType="String">
+        DELETE FROM oauth.t_user WHERE user_username=#{userName};
+    </delete>
+    <update id="updatePasswordByUserName" parameterType="String">
+        UPDATE oauth.t_user SET user_password=#{password} WHERE user_username=#{userName};
+    </update>
+    <select id="getUserById" resultMap="userResultMapper">
+        SELECT * FROM oauth.t_user WHERE user_id=#{id};
+    </select>
+</mapper>

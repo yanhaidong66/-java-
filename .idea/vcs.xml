@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/used_book/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/used_book/gateway" vcs="Git" />
   </component>
 </project>

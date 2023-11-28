@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    gateway:
+        routes:
+
+  application:
+    name: gateway
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:9999/eureka
+server:
+  port: 8888

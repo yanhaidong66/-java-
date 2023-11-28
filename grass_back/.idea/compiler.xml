@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+<<<<<<< HEAD:used_book/.idea/compiler.xml
+    </annotationProcessing>
+=======
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="deal_server" />
+        <module name="oauth_SERVER" />
+        <module name="common" />
+        <module name="eureka" />
+        <module name="gateway" />
+        <module name="information_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oauth" target="17" />
+      <module name="oauth_server" target="20" />
+      <module name="used_book" target="20" />
+      <module name="user" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="" />
+      <module name="deal_server" options="" />
+      <module name="eureka" options="" />
+      <module name="gateway" options="" />
+      <module name="information_server" options="" />
+      <module name="oauth" options="-parameters" />
+      <module name="oauth_server" options="" />
+      <module name="user" options="-parameters" />
+    </option>
+>>>>>>> feature:grass_back/.idea/compiler.xml
+  </component>
+</project>
